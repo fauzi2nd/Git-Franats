@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User`s Search</string>
+    <string name="display_name">Tampilan Nama</string>
+    <string name="display_username">Tampilan Nama Pengguna</string>
+    <string name="repository">Repositori</string>
+    <string name="display_repository">Tampilan Repository</string>
+    <string name="display_company">Tampilan Perusahaan</string>
+    <string name="display_location">Tampilan Lokasi</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="settings">Pengaturan</string>
+    <string name="search">Pencarian</string>
+    <string name="follower">Pengikut</string>
+    <string name="followimg">Mengikuti</string>
+    <string name="zero">Nol</string>
+    <string name="followers">Pengikut</string>
+    <string name="followings">Mengikuti</string>
+    <string name="companyView">Perusahaan :</string>
+    <string name="locationView">Lokasi :</string>
+    <string name="display_id">Tampilan Id</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="you_choose">Kamu memilih</string>
+</resources>

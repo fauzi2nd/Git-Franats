@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Github User`s Search</string>
+    <string name="display_name">Display Name</string>
+    <string name="display_username">Display Username</string>
+    <string name="repository">Repository</string>
+    <string name="display_repository">Display Repository</string>
+    <string name="display_company">Display Company</string>
+    <string name="display_location">Display Location</string>
+    <string name="action_settings">Settings</string>
+    <string name="settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="follower">Follower</string>
+    <string name="followimg">Following</string>
+    <string name="zero">zero</string>
+    <string name="followers">Followers</string>
+    <string name="followings">Followings</string>
+    <string name="companyView">Company :</string>
+    <string name="locationView">Location :</string>
+    <string name="display_id">Display Id</string>
+    <string name="change_language">Change Language</string>
+    <string name="you_choose">You choose"</string>
+</resources>
